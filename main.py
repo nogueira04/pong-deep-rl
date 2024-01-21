@@ -16,7 +16,7 @@ if __name__ == '__main__':
     if load_checkpoint:
         agent.load_models()
     print("aifjiaskjfasjk")
-    filename = "PongNoFrameskip-v4.png"
+    filename = "pong.png"
 
     scores, eps_history = [], []
     n_steps = 0
